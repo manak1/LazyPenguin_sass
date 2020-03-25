@@ -1,13 +1,13 @@
 # LazyPenguin
 
 
-1) Clone/Download this file.
+1) クローン/ダウンロードして〜
 
 
-2) Add it your project.
+2) プロジェクトに放り込んで！
 
-3) Modify some variables.
+3) 変数お好みで！
 
-4) YOU ARE GOOD TO GO!!!
+4) いえええええええい
 
 ![result](https://media.giphy.com/media/TVPJNp47j5EA0/giphy.gif)
