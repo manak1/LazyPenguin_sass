@@ -1,7 +1,0 @@
-$mobile_size:768px;
-
-@mixin mobile() {
-    @media (max-width:$mobile_size) {
-        @content;
-    }
-}
